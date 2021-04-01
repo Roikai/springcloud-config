@@ -17,7 +17,7 @@ mybatis-plus:
 spring:
   profiles: dev
   application:
-    name: springcloud-config-dept
+    name: springcloud-provider-dept
   datasource:
     username: root
     password: 12345678
@@ -47,7 +47,7 @@ mybatis-plus:
 spring:
   profiles: test
   application:
-    name: springcloud-config-dept
+    name: springcloud-provider-dept
   datasource:
     username: root
     password: 12345678
